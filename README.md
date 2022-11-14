@@ -1,2 +1,2 @@
 # Cuatro-en-Linea
-Proyecto realizado en el 2019. Es una versión del juego cuatro en lineal con posibilidad de jugar con otro jugador o contra el PC.
+Project carried out in 2019. It is a version of the four-line game with the possibility of playing with another player or against the PC. project already finished.
